@@ -1,5 +1,9 @@
-#Beyond CSS
+# Beyond CSS
+
+## Course
+
+- [CSS um passo adiante - Tárcio Zemel](https://www.udemy.com/css-um-passo-adiante)
 
 ## Links 
 
-[RSCSS Metodology](http://rscss.io)
+- [RSCSS - CSS metology](http://rscss.io)
