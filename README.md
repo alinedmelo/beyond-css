@@ -16,9 +16,24 @@
 
 ## Utils 
 
-- Article: [The Simplicity of Specificity](https://codepen.io/davidkpiano/post/the-simplicity-of-specificity)
-- Tool: [Specificity Calculator](https://specificity.keegan.st/)
-- [Normalize - CSS Reset file](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+### Articles / Guides 
+- [The Simplicity of Specificity](https://codepen.io/davidkpiano/post/the-simplicity-of-specificity)
+- [BEM and SMACSS](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
+- [The SASS Way](http://thesassway.com/)
+- [How to compile SASS files](http://sassbreak.com/watch-your-sass/)
+- [Awesome SASS](https://github.com/HugoGiraudel/awesome-sass)
+
+### Docs 
+
 - [Eric Meyer’s Reset CSS](https://cssreset.com/scripts/eric-meyer-reset-css/)
-- [RSCSS - CSS metology](http://rscss.io)
-- Article: [BEM and SMACSS](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
+- [Normalize - CSS Reset file](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+- [RSCSS](http://rscss.io)
+- [SMACSS](https://smacss.com/)
+- [BEM](http://getbem.com/introduction/)
+- [SASS](http://sass-lang.com/)
+- [COMPASS](http://compass-style.org)
+
+### Tools
+
+- [Specificity Calculator](https://specificity.keegan.st/)
+- [SASS live compiler](https://www.sassmeister.com/)
