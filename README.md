@@ -16,4 +16,8 @@
 
 ## Utils 
 
+- Article: [The Simplicity of Specificity](https://codepen.io/davidkpiano/post/the-simplicity-of-specificity)
+- Tool: [Specificity Calculator](https://specificity.keegan.st/)
+- [Normalize - CSS Reset file](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+- [Eric Meyer’s Reset CSS](https://cssreset.com/scripts/eric-meyer-reset-css/)
 - [RSCSS - CSS metology](http://rscss.io)
