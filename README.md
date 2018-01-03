@@ -21,3 +21,4 @@
 - [Normalize - CSS Reset file](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - [Eric Meyer’s Reset CSS](https://cssreset.com/scripts/eric-meyer-reset-css/)
 - [RSCSS - CSS metology](http://rscss.io)
+- Article: [BEM and SMACSS](https://www.sitepoint.com/bem-smacss-advice-from-developers/)
