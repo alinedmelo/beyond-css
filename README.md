@@ -14,6 +14,18 @@
 
 4- Elements and pseudoelements
 
+## Namespaces
+
+Commom used namespaces:
+
+- `l-`: Layouts
+- `o-`: Objects
+- `c-`: Components
+- `js`: Javascript hooks
+- `is-` | `has`: State classes
+- `t1` | `s1`: Typography sizes
+- `u-`: Utility classes
+
 ## Utils 
 
 ### Articles / Guides 
@@ -22,6 +34,8 @@
 - [The SASS Way](http://thesassway.com/)
 - [How to compile SASS files](http://sassbreak.com/watch-your-sass/)
 - [Awesome SASS](https://github.com/HugoGiraudel/awesome-sass)
+- [Writing Modular CSS](https://zellwk.com/blog/css-architecture-2/)
+- [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
 ### Docs 
 
