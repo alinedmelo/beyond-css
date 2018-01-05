@@ -56,7 +56,7 @@ Commom used namespaces:
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [SASS live compiler](https://www.sassmeister.com/)
 
-### Gulp Plugins
+### Plugins for Gulp
 
 - [run-sequence](https://www.npmjs.com/package/run-sequence) - Define a sequence for Gulp tasks.
 
